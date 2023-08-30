@@ -9,6 +9,10 @@ family,Family,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+title2,Title,,
+description,Description,,
+date2,Date,,
+control,Control,,
 source,Source
 identifier,Source Identifier,,
 type,Type,
