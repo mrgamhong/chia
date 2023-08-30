@@ -4,6 +4,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+people,People,true
+family,Family,true
 location,Location
 latitude,Latitude
 longitude,Longitude
