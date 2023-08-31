@@ -6,7 +6,7 @@ description,Description,
 subject,Subjects,true
 people,People,true
 family,Family,true
-location,Location
+location,Places,,
 latitude,Latitude
 longitude,Longitude
 title2,Title,,
