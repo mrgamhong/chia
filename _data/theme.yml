@@ -28,13 +28,6 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
-# PEOPLE PAGE
-#
-people-fields: people # set the field to be featured in the cloud (if left blank, none will be generated)
-people-min: 1 # min size for subject cloud, too many terms = slow load time!
-people-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
-
-##########
 # LOCATIONS PAGE
 #
 locations-fields: location # set the field to be featured in the cloud
